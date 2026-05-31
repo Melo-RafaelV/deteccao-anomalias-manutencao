@@ -2,6 +2,8 @@
 
 Este repositório contém o Projeto 2 da disciplina de Estatística e Probabilidade para Computação (2026.1) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE).
 
+Link para o código no Colab: https://colab.research.google.com/drive/1K1BzWmWdCpUFTOLotCNUivioRBr6D6PV?usp=sharing
+
 ## Alunos
 - **RAFAEL VICTOR PEREIRA DE MELO (RVPM)**
 - **JOAO LUCAS TAVARES FERREIRA (JLTF)**
