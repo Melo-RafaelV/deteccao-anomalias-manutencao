@@ -2,6 +2,15 @@
 
 Este repositório contém o Projeto 2 da disciplina de Estatística e Probabilidade para Computação (2026.1) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE).
 
+## Alunos
+- **RAFAEL VICTOR PEREIRA DE MELO (RVPM)**
+- **JOAO LUCAS TAVARES FERREIRA (JLTF)**
+- **DANTTE ROBERTO ALVES DE ALMEIDA FREITAS (DRAAF)**
+- **JULIA ANDRADE LIMA GONCALVES BEZERRA (JALGB)**
+- **FABIO HENRIQUE UCHOA LOPES (FHUL)**
+- **PEDRO HENRIQUE FERREIRA DA SILVA (PHFS)**
+- **LUIZ FELIPE CAMPOS GOUVEIA (LFCG)**
+
 ## Sobre o Projeto
 O objetivo principal deste projeto é aplicar técnicas estatísticas e métodos de análise de dados para detectar anomalias em equipamentos industriais, auxiliando na tomada de decisão para a manutenção preventiva. A análise busca identificar padrões em dados operacionais para entender e prever quando uma máquina está sujeita a falhas (Machine Failure), evitando paradas inesperadas.
 
